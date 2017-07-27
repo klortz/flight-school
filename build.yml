@@ -11,5 +11,4 @@ inputs:
 
 run:
   path: chmod +x ./flight-school/ci/test.sh
-  path: ./flight-school/ci/test.sh
 
